@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Olá! Seja bem vindo(a), sou Salomão Faleta 😁
 
  <div>
    <a href="https://github.com/BreadcrumbsSalomao-Faleta">
