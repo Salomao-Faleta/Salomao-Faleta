@@ -24,5 +24,3 @@
           
 </div>
 
-![Snake animation](https://github.com//Salomao-Faleta//Salomao-Faleta/blob/output/github-contribution-grid-snake.svg)
-
